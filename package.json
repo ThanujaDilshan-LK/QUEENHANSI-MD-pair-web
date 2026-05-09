@@ -1,0 +1,16 @@
+{
+  "name": "queen-hansi-md-pair-web",
+  "version": "1.0.0",
+  "description": "Pairing code web for QUEENHANSI-MD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3",
+    "pino": "^8.14.0"
+  }
+}
+
